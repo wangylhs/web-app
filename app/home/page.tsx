@@ -9,7 +9,7 @@ export default function Home() {
             <h2>Enter a prompt:</h2>
           </div>
           <input placeholder="123"/>
-          <button className="button">Generate</button>
+          <button>Generate</button>
           <div>
             <h2>Output:
 
